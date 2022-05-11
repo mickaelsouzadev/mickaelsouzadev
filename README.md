@@ -18,10 +18,14 @@ namespace MickaelSouzaDev;
 class Me
 {
    private $name;
+   private $location;
+   private $linkedinProfile;
    
    public function __construct()
    {
       $this->name = "Mickael Braz de Souza";
+      $this->location = "Santana do Livramento, Brazil";
+      $this->linkedinProfile = "https://www.linkedin.com/in/mickael-b-souza/";
    }
 }
     
