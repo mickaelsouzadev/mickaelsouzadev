@@ -2,6 +2,8 @@
   <b>Mickael Souza Dev</b>
 </h1>
 
+<img src="https://mickaelsouzadev.github.io/img/octocat-1676051050333.png" width="250">
+
 Hi! I'm Mickael Souza, a Backend Developer currently living in Santana do Livramento, Brazil. I'm Working with PHP and Mysql DB.
 And i learning new stuff with PHP(good practices, clean architeture, etc) and another programming languages, like Elixir and Go.
 
@@ -31,9 +33,6 @@ class Me
     
  
 ```
-
-<img src="https://mickaelsouzadev.github.io/img/octocat-1676051050333.png">
-
 
   <a href="https://open.spotify.com/user/22obtwqmgctpb476gd7po7mdi">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=22obtwqmgctpb476gd7po7mdi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
