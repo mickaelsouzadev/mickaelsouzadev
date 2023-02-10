@@ -32,6 +32,8 @@ class Me
  
 ```
 
+<img src="https://mickaelsouzadev.github.io/img/octocat-1676051050333.png">
+
 
   <a href="https://open.spotify.com/user/22obtwqmgctpb476gd7po7mdi">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=22obtwqmgctpb476gd7po7mdi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
