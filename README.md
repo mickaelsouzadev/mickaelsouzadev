@@ -4,8 +4,8 @@
 
 <img src="https://mickaelsouzadev.github.io/img/octocat-1676051050333.png" width="250">
 
-Hi! I'm Mickael Souza, a Backend Developer currently living in Santana do Livramento, Brazil. I'm Working with PHP and Mysql DB.
-And i learning new stuff with PHP(good practices, clean architeture, etc) and another programming languages, like Elixir and Go.
+Hi! I'm Mickael B. Souza, a Backend Developer currently living in Santana do Livramento, Brazil. I'm Working with PHP and Mysql DB.
+Also i constantly learning new stuff with PHP(good practices, clean code, algorithm, data structures, etc) and another programming languages, like Golang and Ruby.
 
 
 <p>
@@ -29,6 +29,10 @@ class Me
       $this->name = "Mickael Braz de Souza";
       $this->location = "Santana do Livramento, Brazil";
       $this->linkedinProfile = "https://www.linkedin.com/in/mickael-b-souza/";
+   }
+
+   public function hello() {
+      return "Hello, World";
    }
 }
     
